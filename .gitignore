@@ -14,3 +14,6 @@
 ~$data\lojasAssaiMenorDistancia_Test.xlsx
 ~$data\lojasAssaiMenorDistancia_Final.xlsx
 ~$data\lojasAssaiMenorDistancia_Final.xlsx
+/.venv
+*.pyc
+data/keys.py

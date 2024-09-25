@@ -1,0 +1,9 @@
+beautifulsoup4
+datetime
+regex
+polars
+pandas
+geopy
+plotly
+openrouteservice
+folium
